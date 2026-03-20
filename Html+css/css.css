@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #008ffd;
+  background-color: #e6e3e1e9;
   padding: 20px;
 }
 a {
@@ -35,7 +35,7 @@ td {
   border-bottom: 1px solid #e2bd04;
 }
 tr:nth-child(even) {
-  background-color: #5fdf0f;
+  background-color: #b2b2b2;
 }
 ul,
 ol {
@@ -43,8 +43,8 @@ ol {
   padding-left: 0;
 }
 li {
-  background: rgb(12, 189, 213);
+  background: rgb(237, 237, 237);
   margin: 5px 0;
   padding: 10px;
-  border-left: 5px solid #00dd04;
+  border-left: 5px solid #b2b2b2;
 }
